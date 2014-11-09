@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Club()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Club\r\n
+comment1.params=member
+comment1.target=void\ join(Membership)
+comment1.text=\r\n\ Add\ a\ new\ member\ to\ the\ club's\ list\ of\ members.\r\n\ @param\ member\ The\ member\ object\ to\ be\ added.\r\n
+comment2.params=
+comment2.target=int\ numberOfMembers()
+comment2.text=\r\n\ @return\ The\ number\ of\ members\ (Membership\ objects)\ in\r\n\ \ \ \ \ \ \ \ \ the\ club.\r\n
+comment3.params=name
+comment3.target=boolean\ hasMember(java.lang.String)
+comment3.text=\r\n\ Determine\ if\ a\ specific\ person\ is\ a\ member\ of\ the\ club.\r\n\ @param\ name\ The\ person's\ name.\r\n\ @return\ true\ if\ that\ person\ is\ a\ member;\r\n\ otherwise\ return\ false.\r\n
+comment4.params=month
+comment4.target=int\ joinedInMonth(int)
+comment4.text=\r\n\ Determine\ the\ number\ of\ members\ who\ joined\ in\ the\r\n\ given\ month.\r\n\ @param\ month\ The\ month\ we\ are\ interested\ in.\r\n\ @return\ The\ number\ of\ members.\r\n
+comment5.params=
+comment5.target=Membership\ pickAMember()
+comment5.text=\r\n\ Select\ a\ random\ member\ of\ the\ club.\r\n\ @return\ The\ randomly\ selected\ member.\r\n
+comment6.params=month
+comment6.target=java.util.ArrayList\ purge(int)
+comment6.text=\r\n\ Remove\ from\ the\ club's\ collection\ all\ members\ who\r\n\ joined\ in\ the\ given\ month,\ and\ return\ them\ stored\r\n\ in\ a\ separate\ collection\ object.\r\n\ @param\ month\ The\ month\ of\ the\ Membership.\r\n\ @return\ The\ members\ who\ joined\ in\ the\ given\ month.\r\n
+numComments=7
