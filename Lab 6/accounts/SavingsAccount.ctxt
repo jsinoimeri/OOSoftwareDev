@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=amount
+comment0.target=SavingsAccount(double)
+comment0.text=\r\n\ Constructs\ Savings\ account\ instance\ with\r\n\ initial\ amount\ and\ zero\ interest\ rate\r\n\ @param\ amount\r\n\ \r\n
+comment1.params=amount
+comment1.target=void\ withdraw(double)
+comment1.text=\r\n\ Withdraws\ amount\ from\ account\r\n\ @param\ amount\r\n\ \r\n
+comment2.params=rate
+comment2.target=void\ setInterestRate(double)
+comment2.text=\r\n\ Sets\ the\ monthly\ interest\ rate\r\n\ @param\ rate\r\n\ \r\n
+comment3.params=
+comment3.target=void\ monthEnd()
+comment3.text=\r\n\ Deposits\ the\ interest\ earned\ on\ the\ minimum\ balance\r\n\ of\ the\ account\ during\ the\ month.\r\n\ \r\n
+numComments=4

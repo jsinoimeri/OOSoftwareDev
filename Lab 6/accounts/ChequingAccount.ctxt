@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=amount
+comment0.target=ChequingAccount(double)
+comment0.text=\r\n\ Constructs\ new\ chequing\ account\ with\ initial\ amount\ and\r\n\ zero\ number\ of\ withdraws.\r\n\ @param\ amount\r\n\ \r\n
+comment1.params=amount
+comment1.target=void\ withdraw(double)
+comment1.text=\r\n\ Withdraws\ amount\ from\ account\ and\ if\ number\ of\r\n\ transactions\ is\ over\ limit\ then\ transaction\ fee\ is\ applied.\r\n\ @param\ amount\r\n\ \r\n
+comment2.params=
+comment2.target=void\ monthEnd()
+comment2.text=\r\n\ Resets\ the\ number\ of\ transactions\ to\ zero\ at\r\n\ month's\ end.\r\n\ \r\n
+numComments=3
