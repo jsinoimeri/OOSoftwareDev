@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=panel\ counter
+comment0.target=ResetButtonListener(ClockPanel,\ RollOverCounter)
+comment0.text=\r\n\ The\ listener\ stores\ references\ to\ the\ minutes\ counter\ in\ the\ \r\n\ clock\ and\ the\ panel\ in\ its\ user\ interface.\r\n
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Calls\ methods\ to\ increment\ the\ clock\ and\ update\ the\ UI\ to\r\n\ reflect\ the\ new\ state\ of\ the\ clock.\r\n
+numComments=2
