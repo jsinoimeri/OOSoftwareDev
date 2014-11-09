@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=name\ id
+comment0.target=HourlyEmployee(java.lang.String,\ long)
+comment1.params=
+comment1.target=double\ calculatePay()
+comment2.params=wage
+comment2.target=void\ setHourlyWage(double)
+comment2.text=\r\n\ Sets\ this\ employee's\ hourly\ wage\ to\ the\ specified\ wage.\r\n\r\n\ @param\ wage\ the\ amount\ this\ employee\ earns\ in\ one\ hour.\r\n
+comment3.params=hours
+comment3.target=void\ setHoursWorked(double)
+comment3.text=\r\n\ Sets\ the\ number\ of\ hours\ this\ employee\ works\ in\r\n\ one\ week.\r\n\r\n\ @param\ hours\ the\ hours\ this\ employee\ works\ each\ week.\r\n
+numComments=4
