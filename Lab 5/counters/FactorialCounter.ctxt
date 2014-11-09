@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FactorialCounter()
+comment0.text=\r\n\ Constructs\ a\ new\ FactorialCounter\ whose\ current\ count\ is\r\n\ initialized\ to\ 0\!;\ and\ which\ counts\ between\ 0\!\ and\ 10\!,\r\n\ inclusive.\r\n
+comment1.params=
+comment1.target=int\ getCount()
+comment1.text=\r\n\ Override\ parent\ getCount()\r\n\ Returns\ factorial\r\n
+comment2.params=
+comment2.target=void\ reset()
+comment2.text=\r\n\ Override\ parent\ reset\r\n
+comment3.params=
+comment3.target=void\ countUp()
+comment3.text=\r\n\ Increments\ this\ counter.\ Assuming\ that\ the\ current\ count\ is\ n\!,\r\n\ 0\ <\=\ n\ <\=\ 9,\ this\ method\ increments\ the\ counter\ to\ (n\ +\ 1)\!\r\n
+numComments=4
