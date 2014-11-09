@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Company()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Company\r\n
+comment1.params=e
+comment1.target=boolean\ lookupEmployee(IEmployee)
+comment1.text=\r\n\ Determine\ if\ the\ specified\ employee\ is\ in\ the\ list\ of\ employees.\r\n\ \r\n\ @return\ true\ if\ e\ is\ in\ the\ company's\ list\ of\ employees;\r\n\ \ \ \ \ \ \ \ \ otherwise\ false.\r\n
+comment2.params=e
+comment2.target=boolean\ addEmployee(IEmployee)
+comment2.text=\r\n\ Add\ the\ specified\ employee\ to\ the\ this\ company's\ list\ of\r\n\ employees,\ but\ only\ if\ the\ employee\ is\ not\ already\ in\r\n\ the\ list.\r\n\ \r\n\ @return\ true\ if\ the\ employee\ was\ added\ to\ the\ list,\ otherwise\ return\ false.\ \r\n
+comment3.params=
+comment3.target=double\ calculatePayroll()
+comment3.text=\r\n\ Calculate\ the\ total\ payroll\ for\ a\ two-week\ period.\r\n\ \r\n\ @return\ the\ amount\ paid\ to\ all\ employees\ every\ twoo\ weeks.\ \r\n
+numComments=4

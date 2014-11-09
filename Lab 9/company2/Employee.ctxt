@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=name\ id
+comment0.target=Employee(java.lang.String,\ long)
+comment1.params=
+comment1.target=double\ calculatePay()
+comment1.text=\r\n\ Calculate\ two\ week's\ pay\ for\ this\ employee.\r\n\ \r\n\ @return\ the\ amount\ this\ employee\ is\ paid\ every\ two\ weeks.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ a\ string\ representation\ of\ this\ employee.\r\n\ \r\n\ @return\ a\ string\ of\ the\ form\ "name\:\ id";\ for\ example,\r\n\ \ \ \ \ \ \ \ \ "Cathy\ Coder\:\ 123456"\r\n
+comment3.params=obj
+comment3.target=boolean\ equals(java.lang.Object)
+comment3.text=\r\n\ Overrides\ the\ equals\ method\ to\ compare\ two\r\n\ objects\ together\r\n\ \r\n\ @returns\ boolean\r\n
+numComments=4
